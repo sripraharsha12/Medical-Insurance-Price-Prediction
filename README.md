@@ -109,6 +109,8 @@ Using only **Age** results in poor prediction accuracy because insurance charges
 - BMI
 - Sex
 - Smoker
+- Charges
+- Region
 
 ### Target
 
@@ -118,10 +120,10 @@ Using only **Age** results in poor prediction accuracy because insurance charges
 
 | Metric | Value |
 |---------|--------|
-| MAE | 4207.69 |
-| MSE | 34444141.49 |
-| RMSE | 5868.91 |
-| R² Score | 0.765 |
+| MAE | 4181.81 |
+| MSE | 38940169.92 |
+| RMSE | 6240.20 |
+| R² Score | 0.772 |
 
 ### Observation
 
